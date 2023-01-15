@@ -25,6 +25,11 @@ namespace CustomMessage
             Console.WriteLine(message);
             Console.ResetColor();
         }
+
+        /// <summary>
+        /// Method that print message on the console with cyan color and does not clean the console while printing the message.
+        /// </summary>
+        /// <param name="message">Message to print to the console.</param>
         public static void Alert(string message)
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
