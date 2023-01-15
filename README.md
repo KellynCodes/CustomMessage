@@ -9,8 +9,8 @@
 ///<param name="message">The message that you want to print on the console.</param>
 Message.Error(string message);
 
-The method encapsulates some method from system namespace like Console.Clear() , Console.ForegrandColor = ConsoleColor.Red and Console.ResetColor() </br >
-Which helps to clear the console, Change the console color to red before printing the message and after printing the messsage the last Console.ResetColor() method will then change the console color to normal.
+The method encapsulates some method from system namespace like Console.Clear() , <br /> Console.ForegrandColor = ConsoleColor.Red and Console.ResetColor() <br />
+Which helps to clear the console, Change the console color to red before printing <br /> the message and after printing the messsage the last Console.ResetColor() <br /> method will then change the console color to normal.
 ```
 
 Note: **The difference between the methods are the color of the message they print.**
