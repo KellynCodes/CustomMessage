@@ -8,7 +8,7 @@
 - Frameworks: .NET Standard 2.0
 - IDE: Visual Studio
 
-  - To install our package using the .NET CLI, run: `dotnet add package CustomMessage --version 1.0.0`
+  - To install this package using the .NET CLI, run: `dotnet add package CustomMessage --version 1.0.0`
   - Installation using Visual Studio
     - Right-click on project dependencies
     - Select manage Nuget packages
