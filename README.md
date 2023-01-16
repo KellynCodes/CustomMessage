@@ -36,7 +36,7 @@ Note: **The difference between the methods are the color of the message they pri
  </br > The only method that has another difference is the Message.Alert() method that has no Console.Clear() method.
 
  ### List of Methods available in the Repo
- ```C# Message.Error(string message){}`
+ ```C# Message.Error(string message){}
   - Message.Success(string message){}
   - Message.Warning(string message){}
   - Message.Alert(string message){}
