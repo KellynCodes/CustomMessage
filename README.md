@@ -2,9 +2,7 @@
 **This package helps encapsulate features like**
 * [x] Clearing and Printing message on the console with different color depending on the method called.
 
-## Live Demo
-
-[Github Link](https://KellynCodes.github.io/CustomMessage)
+## Live Demo: [Demo Link](https://KellynCodes.github.io/CustomMessage)
 
 - Language: C#
 - Frameworks: .NET Standard 2.0
@@ -37,7 +35,7 @@ Note: **The difference between the methods are the color of the message they pri
 
  ### List of Methods available in the Repo
  ```C# Message.Error(string message){}
-  - Message.Success(string message){}
-  - Message.Warning(string message){}
-  - Message.Alert(string message){}
+   Message.Success(string message){}
+   Message.Warning(string message){}
+   Message.Alert(string message){}
   ```
