@@ -39,3 +39,10 @@ Note: **The difference between the methods are the color of the message they pri
    Message.Warning(string message){}
    Message.Alert(string message){}
   ```
+  ## Authors
+
+👤 **KellynCodes**
+
+- GitHub Profile: [@KellynCodes](https://github.com/KellynCodes)
+- Twitter: [@KellynCode](https://twitter.com/Kellyncode)
+- LinkedIn: [KellynCodes](https://linkedin.com/in/kellynCodes)
