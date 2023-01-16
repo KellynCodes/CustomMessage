@@ -4,7 +4,18 @@
 
 ## Live Demo
 
-[Live Demo Link](https://KellynCodes.github.io/CustomMessage)
+[Github Link](https://KellynCodes.github.io/CustomMessage)
+
+- Language: C#
+- Frameworks: .NET Standard 2.0
+- IDE: Visual Studio
+
+  - To install our package using the .NET CLI, run: `dotnet add package CustomMessage --version 1.0.0`
+  - Installation using Visual Studio
+    - Right-click on project dependencies
+    - Select manage Nuget packages
+    - Search `CustomMessage`
+    - Click install
 
 ### Usage
 ```C#
@@ -25,15 +36,7 @@ Note: **The difference between the methods are the color of the message they pri
  </br > The only method that has another difference is the Message.Alert() method that has no Console.Clear() method.
 
  ### List of Methods available in the Repo
- * [x] ```C# 
-         Message.Error(string message){}
-         ```
- * [x] ```
- C# Message.Success(string message){} 
- ```
- * [x] ```
-       C# Message.Warning(string message){} 
-       ```
- * [x] ```
- C# Message.Alert(string message){} 
- ```
+ * [x] ` Message.Error(string message){}`
+ * [x] `C# Message.Success(string message){}`
+ * [x] `C# Message.Warning(string message){} `
+ * [x] `C# Message.Alert(string message){}`
