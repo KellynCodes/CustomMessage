@@ -2,6 +2,11 @@
 **This package helps encapsulate features like**
 * [x] Clearing and Printing message on the console with different color depending on the method called.
 
+## Live Demo
+
+[Live Demo Link](https://KellynCodes.github.io/CustomMessage)
+
+### Usage
 ```C#
 ///<summary>
 /// This method takes in one parameter string message and print the message in the console with danger color.
@@ -20,7 +25,15 @@ Note: **The difference between the methods are the color of the message they pri
  </br > The only method that has another difference is the Message.Alert() method that has no Console.Clear() method.
 
  ### List of Methods available in the Repo
- * [x] ```C# Message.Error(string message){}```
- * [x] ```C# Message.Success(string message){} ```
- * [x] ```C# Message.Warning(string message){} ```
- * [x] ```C# Message.Alert(string message){} ```
+ * [x] ```C# 
+         Message.Error(string message){}
+         ```
+ * [x] ```
+ C# Message.Success(string message){} 
+ ```
+ * [x] ```
+       C# Message.Warning(string message){} 
+       ```
+ * [x] ```
+ C# Message.Alert(string message){} 
+ ```
