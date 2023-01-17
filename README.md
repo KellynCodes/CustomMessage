@@ -2,7 +2,7 @@
 **This package helps encapsulate features like**
 * [x] Clearing and Printing message on the console with different color depending on the method called.
 
-## Live Demo: [Demo Link](https://KellynCodes.github.io/CustomMessage)
+## Live Demo: [Demo Link](https://github.com/kellyncodes/CustomMessage)
 
 - Language: C#
 - Frameworks: .NET Standard 2.0
